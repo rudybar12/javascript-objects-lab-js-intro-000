@@ -14,4 +14,3 @@ const newObj = Object.assign({}, object)
 delete newObj [key]
 return newObj
 }
-
